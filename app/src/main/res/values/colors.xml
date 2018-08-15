@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="lightGreen">#FF59D58D</color>
+    <color name="lightGreenD3">#D359D58D</color>
+    <color name="lightGreenDark">#FF24B360</color>
+
+    <color name="mt_gray">#d8464646</color>
+    <color name="mt_grayDark">#464646</color>
+
+    <color name="mt_sea_blue">#215399</color>
+    <color name="mt_dark_red">#D24735</color>
+
+    <color name="app_theme_blue">#38D7C3</color>
+
+    <color name="switch_on">#FF24B360</color>
+    <color name="switch_off">#d8464646</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorGrey">#3a4048</color>
+    <color name="colorWhiteLight">#aeb2b7</color>
+    <color name="colorWhiteOverlay">#e5e7ea</color>
+    <color name="colorBlackLight">#4b4646</color>
+    <color name="colorGreyLight">#646262</color>
+    <color name="colorGreen">#d6154d2b</color>
+    <color name="colorGreenLight">#d62b6341</color>
+    <color name="colorRed">#f5ff263c</color>
+    <color name="colorGreenAccent">#3fce02</color>
+    <color name="colorBlueOverlay">#34feb500</color>
+    <color name="colorBlue">#6afe8300</color>
+</resources>

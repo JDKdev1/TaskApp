@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="facebook_app_id">854091218100248</string>
+    <string name="fb_login_protocol_scheme">fb1918448381499215</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_login_field">Email or Phone number</string>
+    <string name="prompt_password">Password</string>
+    <string name="title_sign_in">Welcome, Please sign in</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_facebook">Facebook Login</string>
+    <string name="action_sign_in_google_plus">Google+ Login</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_phone">The phone number is incorrect</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="forgot_details">Forgot your credentials?</string>
+    <string name="no_account">Don\'t have an account? Sign Up</string>
+
+    <!--Register-->
+    <string name="click_next">Proceed Next</string>
+    <string name="action_sign_up">Create an new account</string>
+    <string name="prompt_register_name">Enter name</string>
+    <string name="prompt_register_mail">Enter mail</string>
+    <string name="prompt_register_phone">Enter phone no.</string>
+    <string name="prompt_register_password">Enter password</string>
+    <string name="prompt_register_password_again">Enter password again</string>
+    <string name="error_password_mismatch">Entered password doesn\'t match</string>
+    <string name="contact_title">OTP Validation</string>
+    <string name="contact_desc">Please enter your phone number to get verified via otp</string>
+    <string name="otp_resend">Didn\'t receive OTP number?</string>
+    <string name="enter_otp">Please enter the 4 digit OTP number, that we have sent you.</string>
+    <string name="enter_otp_title">Submit</string>
+    <string name="forgot_title">Forgot Credentials</string>
+    <string name="forgot_desc">Forgot your credential? Don\'t worry</string>
+    <string name="fareamnt">\u20B9</string>
+
+
+    <!--Navigation-->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_logout">Logout</string>
+
+    <!--MainActivity Map-->
+    <string name="text_location_permission">GettRyde needs location permission!</string>
+    <string name="ok">Grant Permission</string>
+    <string name="ride_now">Ride Now</string>
+    <string name="ride_later">Ride Later</string>
+    <string name="my_account">My Account</string>
+    <string name="enter_drop_location">Enter drop location</string>
+    <string name="pickup_from">Pickup from</string>
+    <string name="confirm_booking">Confirm Booking</string>
+    <string name="title_activity_ride_history">RideHistory</string>
+    <string name="tab_text_1">Upcoming Rides</string>
+    <string name="tab_text_2">Ride History</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="invite_friends">Invite Friends</string>
+</resources>
